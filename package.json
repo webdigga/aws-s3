@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/webdigga/aws-s3#readme",
   "dependencies": {
-    "aws-sdk": "^2.1135.0"
+    "aws-sdk": "^2.1135.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
   }
 }
